@@ -1,0 +1,3 @@
+C:\Users\User\Documents\New Unity Project 2 - копия\obj\Debug\UnityVS.New Unity Project 2 - копия.CSharp.Editor.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\New Unity Project 2 - копия\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\User\Documents\New Unity Project 2 - копия\obj\Debug\Assembly-CSharp-Editor.pdb

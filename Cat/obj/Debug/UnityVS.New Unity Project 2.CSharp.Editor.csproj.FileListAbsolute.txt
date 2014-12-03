@@ -1,0 +1,15 @@
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\User\Documents\New Unity Project 2\obj\Debug\UnityVS.New Unity Project 2.CSharp.Editor.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\New Unity Project 2\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\User\Documents\New Unity Project 2\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\User\Documents\New Unity Project 2\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml

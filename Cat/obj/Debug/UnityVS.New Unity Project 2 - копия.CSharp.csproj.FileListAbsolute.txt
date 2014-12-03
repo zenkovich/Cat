@@ -1,0 +1,11 @@
+C:\Users\User\Documents\New Unity Project 2 - копия\obj\Debug\UnityVS.New Unity Project 2 - копия.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\New Unity Project 2 - копия\obj\Debug\Assembly-CSharp.dll
+C:\Users\User\Documents\New Unity Project 2 - копия\obj\Debug\Assembly-CSharp.pdb
+C:\Users\User\Documents\New Unity Project 2 - копия\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\User\Documents\New Unity Project 2 - копия\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\User\Documents\New Unity Project 2 - копия\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\User\Documents\New Unity Project 2 - копия\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\User\Documents\New Unity Project 2 - копия\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\User\Documents\New Unity Project 2 - копия\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\User\Documents\New Unity Project 2 - копия\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\User\Documents\New Unity Project 2 - копия\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
